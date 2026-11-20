@@ -50,6 +50,6 @@ Reto: prueba de `actualizar()` con PUT:
 
 ---
 
-## Ronda 4 en adelante
-
-(Se completa en los siguientes pasos.)
+## Evidencia
+<img src = "screenshoots/DD-IM1.jpeg" width = "250">
+<img stc = "screenshoots/DD-IM2.jpeg" width = "250">
